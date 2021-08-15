@@ -13,13 +13,23 @@ Developed python mini projects
      ii) Datetime and time modules in python help us to work with the dates and time of the current day when the user is operating python and to manipulate it too.
     iii) Winsound module provides access to the basic sound playing machinery provided by Windows platforms. This is useful to generate the sound immediately when a function is             called.
     
-3. Currency Converter 
+3. Currency Converter:
    The following steps are involved
    The currency converter project in python requires you to have basic knowledge of python programming and the pygame library.
       i) tkinter – For User Interface (UI)
      ii) requests – to get url
      
-4.      
+4.  Fruit - Ninja Game: 
+    Modules required are 
+    i) pygame 
+   ii) random 
+   
+5. Calculator using Tkinter module:
+   To use the Tkinter we need to import the Tkinter module. Import the function factorial from math module.
+   
+6. Rock Paper Scissors :
+   To implement this python rock paper scissors project we will use the basic concept of python with tkinter and random module.
+   
 
       
 
